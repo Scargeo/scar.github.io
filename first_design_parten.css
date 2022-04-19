@@ -1,0 +1,10 @@
+.hanging-indent{
+    padding-left:+Value; text-indent:-Value; margen-top:±Value;
+}
+/* +value and -value are your own selected px you wish to add */
+
+.hanging-dropcap{
+    position:relative; top:± Value; left:-Value; font-size:+size; inline-height: +size;
+}
+/* size should thake values
+(+)and (-) means positive value and negative value */
